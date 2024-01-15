@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106090983586",
+    "project_id": "purpletunesps",
+    "storage_bucket": "purpletunesps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106090983586:android:b65a750087fd97923f67fb",
+        "android_client_info": {
+          "package_name": "com.purpletunes.purpletunesps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106090983586-v8lu7pbiqn54lbchhad7vhfc7ugirg9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpopyDtZvEmnlwlHmt5G5eNTw2LV6eGqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106090983586-v8lu7pbiqn54lbchhad7vhfc7ugirg9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
